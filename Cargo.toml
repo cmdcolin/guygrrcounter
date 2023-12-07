@@ -1,0 +1,12 @@
+[package]
+name = "guygrr"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+alsa = "0.8.1"
+cpal = "0.14"
+dasp = "0.11"
+vosk = "0.2.0"
